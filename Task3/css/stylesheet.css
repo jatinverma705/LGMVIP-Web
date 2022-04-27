@@ -1,0 +1,55 @@
+body{
+    background-image: url(/images/simple-blue-gray-blank-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.formLabel{
+    color: aliceblue;
+    width: 100px;
+}
+h2{
+    background-color: rgb(6, 46, 245);
+    color: white;
+    text-align: center;
+    height: 55px;
+    padding-top: 10px;
+    
+}
+.head{
+    margin: 0px;
+    padding: 0px;
+}
+input[type="button"]{
+    margin-right: 100px;
+    border-radius: 7px;
+    background-color: rgb(6, 46, 245);
+    color: white;
+    width: 100px;
+    height: 40px;
+}
+input[type="text"],
+input[type="email"]{
+    height: 40px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.gender,
+.game,
+h3{
+    color: aliceblue;
+    margin-bottom: 20px;
+}
+.radio-label{
+    font-weight: normal;
+}
+.main{
+    margin: 20px;
+}
+.error::placeholder{
+    color: red;
+}
+#user{
+    background-color: aliceblue;
+}
+
